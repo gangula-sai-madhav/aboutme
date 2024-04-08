@@ -1,7 +1,7 @@
 - 👋 Passionate about computers, programming, and the web since 2015.
 
-- 💡 Started with Google Sites in 2015, later moved to Google Blogger in 2018. Began slowly learning HTML, CSS, and JS, eventually creating their own blog theme in 2019.
-
+- 💡 I started with Google Sites in 2015, then later moved to Google Blogger in 2018. I began slowly learning HTML, CSS, and JS, eventually creating my own blog theme in 2019.
+  
 - 🎓 Created TS Diploma Blog during my diploma in EEE, gaining 700,000+ web traffic. (Gained front-end knowledge in HTML, CSS, JS, and CSS frameworks like Bootstrap and Bulma.)
 
 - 🚀 Shifted focus to Computer Science for continued learning and growth. (Learned programming-related concepts.)
