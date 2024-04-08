@@ -11,7 +11,7 @@
 - 💻 Currently learning full-stack development using Java.
 
 🔗 Links to my blogs:
-- TS Diploma Blog: [https://tsdiplomac16update.blogspot.com](https://tsdiplomac16update.blogspot.com)
-- Diploma Geeks: [http://www.diplomageeks.com](http://www.diplomageeks.com)
+- TS Diploma Blog: https://tsdiplomac16update.blogspot.com
+- Diploma Geeks: https://www.diplomageeks.com
 
-My LinkedIn profile: [www.linkedin.com/in/gangula-sri-sai-madhav](www.linkedin.com/in/gangula-sri-sai-madhav)
+My LinkedIn profile: www.linkedin.com/in/gangula-sri-sai-madhav
